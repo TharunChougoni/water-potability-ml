@@ -79,8 +79,3 @@ jupyter notebook notebooks/water_potability_modeling.ipynb
 
 Built as a machine-learning course project for water-potability prediction. The goal was not only to train a classifier, but also to show the end-to-end workflow: data inspection, preprocessing, EDA, model training, evaluation, and reporting.
 
-## Original Drive Evidence
-
-The original project files were maintained in Google Drive before being packaged here for public review. Drive folder:
-
-https://drive.google.com/drive/folders/1Rj5vq-3NuAkW53cxUwKwPBFoZkCUIBtY
